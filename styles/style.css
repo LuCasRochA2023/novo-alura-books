@@ -1,0 +1,23 @@
+@import url("header.css");
+@import url("banner.css");
+@import url("carrocel.css");
+@import url("topicos.css");
+@import url("contato.css");
+@import url("rodape.css");
+:root{
+    --cor-de-fundo:#EBEECB;
+    --branco:#FFFFFF;
+    --laranja:#EB9800;
+    --fonte-principal:"Poppins";
+    --azul:#002F52;
+    --fonte-secundaria:"Josefin Sans";
+    --preto:black;
+    --cinza:#474646;
+    --cinza-claro:#858585;
+}
+body{
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 16px;
+}
