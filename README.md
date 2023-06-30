@@ -6,8 +6,9 @@ About the project:
 
 That's my version of alura books developed by ALURA.
 It was build using only HTML and CSS.
+Using this aplication you can see some of Alura books.
 
-aa
+I hope you enjoy my project and share with all your friends who love technology.
 
 
 
